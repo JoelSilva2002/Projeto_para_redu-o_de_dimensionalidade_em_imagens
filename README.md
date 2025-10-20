@@ -1,0 +1,1 @@
+# Projeto_para_redu-o_de_dimensionalidade_em_imagens
